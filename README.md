@@ -26,16 +26,4 @@ Tanuja Kushwaha
 
 
 
-## Project Screenshots
 
-### Dashboard
-![Dashboard](dashboard.png)
-
-### Attendance Record
-![Attendance](attendance.png)
-
-### Employee List
-![Employee List](employee list.png)
-
-### Leave Request
-![Leave Request](leave request.png)
