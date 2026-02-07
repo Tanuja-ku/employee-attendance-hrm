@@ -23,3 +23,19 @@ Import the `database.sql` file into MySQL before running the project.
 
 ## Author
 Tanuja Kushwaha
+
+
+
+## Project Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Attendance Record
+![Attendance](attendance.png)
+
+### Employee List
+![Employee List](employee list.png)
+
+### Leave Request
+![Leave Request](leave request.png)
