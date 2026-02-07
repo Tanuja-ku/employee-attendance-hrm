@@ -24,6 +24,26 @@ Import the `database.sql` file into MySQL before running the project.
 ## Author
 Tanuja Kushwaha
 
+## Project Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](admin.png)
+
+### Attendance
+![Attendance](attendance.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Employee Management
+![Employee](employee.png)
+
+### Leave Apply
+![Leave Apply](leaveapply.png)
+
+### Mark Read Notification
+![Mark Read](mark_read.png)
+
 
 
 
